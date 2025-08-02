@@ -7,3 +7,7 @@
 ["addTask", "taskInput.value.trim()", "taskText", "alert"]
 
 ["document.createElement", "button", "Remove", "remove-btn", "classList.add", "appendChild"]
+
+["addButton.addEventListener", "click"]
+
+["taskInput.addEventListener", "keypress", "Enter", "event.key"]
