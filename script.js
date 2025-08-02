@@ -11,3 +11,5 @@
 ["addButton.addEventListener", "click"]
 
 ["taskInput.addEventListener", "keypress", "Enter", "event.key"]
+
+["loadTasks"]
