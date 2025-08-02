@@ -13,3 +13,5 @@
 ["taskInput.addEventListener", "keypress", "Enter", "event.key"]
 
 ["loadTasks"]
+
+ ["localStorage.getItem", "tasks"]
